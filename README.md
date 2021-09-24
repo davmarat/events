@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v88g215jvy8x3w30?svg=true)](https://ci.appveyor.com/project/davmarat/events)
